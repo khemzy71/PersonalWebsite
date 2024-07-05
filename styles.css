@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(206, 170, 123);
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 1em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.profile img {
+    border-radius: 50%;
+}
+
+.goals {
+    margin-bottom: 2em;
+}
+
+.goals ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.time {
+    text-align: center;
+    margin-top: 2em;
+}
+a {
+    color: rgb(138, 107, 67);
+}
+footer {
+    color: black;
+    text-align: center;
+    width: 100%;
+}
